@@ -1,0 +1,87 @@
+2026-04-16 21:55:59.513525 - Safe: generate_hash.py
+2026-04-16 21:55:59.514006 - Safe: kumar.txt
+2026-04-16 21:55:59.514406 - Safe: logs.txt
+2026-04-16 21:55:59.514715 - Safe: rohini.txt
+2026-04-16 21:55:59.514981 - Safe: sasi.txt
+2026-04-16 21:55:59.515309 - Safe: scanner.py
+2026-04-16 21:55:59.515626 - Safe: signatures.txt
+2026-04-16 21:58:39.231199 - Safe: generate_hash.py
+2026-04-16 21:58:39.231718 - Malware detected: kumar.txt
+2026-04-16 21:58:39.232300 - Quarantined: C:/Users/venka/OneDrive/Documents/AntivirusProject\kumar.txt
+2026-04-16 21:58:39.232679 - Safe: logs.txt
+2026-04-16 21:58:39.233028 - Malware detected: rohini.txt
+2026-04-16 21:58:39.233463 - Quarantined: C:/Users/venka/OneDrive/Documents/AntivirusProject\rohini.txt
+2026-04-16 21:58:39.240417 - Malware detected: sasi.txt
+2026-04-16 21:58:39.240901 - Quarantined: C:/Users/venka/OneDrive/Documents/AntivirusProject\sasi.txt
+2026-04-16 21:58:39.241452 - Safe: scanner.py
+2026-04-16 21:58:39.242584 - Safe: signatures.txt
+2026-04-16 22:03:30.637840 - Safe: generate_hash.py
+2026-04-16 22:03:30.638276 - Safe: logs.txt
+2026-04-16 22:03:30.638591 - Safe: scanner.py
+2026-04-16 22:03:30.638874 - Safe: signatures.txt
+2026-04-16 22:03:30.639299 - Malware detected: kumar.txt
+2026-04-16 22:03:30.639660 - Quarantined: C:/Users/venka/OneDrive/Documents/AntivirusProject\quarantine\kumar.txt
+2026-04-16 22:03:30.639935 - Malware detected: rohini.txt
+2026-04-16 22:03:30.640282 - Quarantined: C:/Users/venka/OneDrive/Documents/AntivirusProject\quarantine\rohini.txt
+2026-04-16 22:03:30.640567 - Malware detected: sasi.txt
+2026-04-16 22:03:30.640909 - Quarantined: C:/Users/venka/OneDrive/Documents/AntivirusProject\quarantine\sasi.txt
+2026-04-16 22:06:00.419834 - Malware detected: kumar.txt
+2026-04-16 22:06:00.420423 - Quarantined: C:/Users/venka/OneDrive/Documents/AntivirusProject/quarantine\kumar.txt
+2026-04-16 22:06:00.421052 - Malware detected: rohini.txt
+2026-04-16 22:06:00.421782 - Quarantined: C:/Users/venka/OneDrive/Documents/AntivirusProject/quarantine\rohini.txt
+2026-04-16 22:06:00.422319 - Malware detected: sasi.txt
+2026-04-16 22:06:00.422996 - Quarantined: C:/Users/venka/OneDrive/Documents/AntivirusProject/quarantine\sasi.txt
+2026-04-16 22:07:36.063534 - Safe: generate_hash.py
+2026-04-16 22:07:36.063988 - Safe: logs.txt
+2026-04-16 22:07:36.064312 - Safe: scanner.py
+2026-04-16 22:07:36.064622 - Safe: signatures.txt
+2026-04-16 22:07:36.064895 - Safe: suma.txt
+2026-04-16 22:07:36.065275 - Malware detected: kumar.txt
+2026-04-16 22:07:36.065666 - Quarantined: C:/Users/venka/OneDrive/Documents/AntivirusProject\quarantine\kumar.txt
+2026-04-16 22:07:36.065963 - Malware detected: rohini.txt
+2026-04-16 22:07:36.066356 - Quarantined: C:/Users/venka/OneDrive/Documents/AntivirusProject\quarantine\rohini.txt
+2026-04-16 22:07:36.066642 - Malware detected: sasi.txt
+2026-04-16 22:07:36.066981 - Quarantined: C:/Users/venka/OneDrive/Documents/AntivirusProject\quarantine\sasi.txt
+2026-04-16 22:09:05.262363 - Malware detected: kumar.txt
+2026-04-16 22:09:05.262784 - Quarantined: C:/Users/venka/OneDrive/Documents/AntivirusProject/quarantine\kumar.txt
+2026-04-16 22:09:05.263219 - Malware detected: rohini.txt
+2026-04-16 22:09:05.263580 - Quarantined: C:/Users/venka/OneDrive/Documents/AntivirusProject/quarantine\rohini.txt
+2026-04-16 22:09:05.263929 - Malware detected: sasi.txt
+2026-04-16 22:09:05.264297 - Quarantined: C:/Users/venka/OneDrive/Documents/AntivirusProject/quarantine\sasi.txt
+2026-04-16 22:09:52.160213 - Malware detected: kumar.txt
+2026-04-16 22:09:52.161163 - Quarantined: C:/Users/venka/OneDrive/Documents/AntivirusProject/quarantine\kumar.txt
+2026-04-16 22:09:52.161531 - Malware detected: rohini.txt
+2026-04-16 22:09:52.161910 - Quarantined: C:/Users/venka/OneDrive/Documents/AntivirusProject/quarantine\rohini.txt
+2026-04-16 22:09:52.162266 - Malware detected: sasi.txt
+2026-04-16 22:09:52.162638 - Quarantined: C:/Users/venka/OneDrive/Documents/AntivirusProject/quarantine\sasi.txt
+2026-04-16 22:10:49.795122 - Malware detected: kumar.txt
+2026-04-16 22:10:49.795605 - Quarantined: C:/Users/venka/OneDrive/Documents/AntivirusProject/quarantine\kumar.txt
+2026-04-16 22:10:49.795907 - Malware detected: rohini.txt
+2026-04-16 22:10:49.796260 - Quarantined: C:/Users/venka/OneDrive/Documents/AntivirusProject/quarantine\rohini.txt
+2026-04-16 22:10:49.796511 - Malware detected: sasi.txt
+2026-04-16 22:10:49.796788 - Quarantined: C:/Users/venka/OneDrive/Documents/AntivirusProject/quarantine\sasi.txt
+2026-04-16 22:10:49.797026 - Malware detected: suma.txt
+2026-04-16 22:10:49.797315 - Quarantined: C:/Users/venka/OneDrive/Documents/AntivirusProject/quarantine\suma.txt
+2026-04-16 22:11:31.887124 - Safe: JavaCodingPack-0.4.2.exe
+2026-04-16 22:11:39.756799 - Safe: kali-linux-2025.2-installer-amd64 (1).iso
+2026-04-16 22:11:39.758652 - Safe: mingw-get-setup.exe
+2026-04-16 22:11:39.759985 - Safe: my python manual.docx
+2026-04-16 22:11:39.827085 - Safe: python-3.13.5-amd64.exe
+2026-04-16 22:16:37.111872 - Malware detected: kumar.txt
+2026-04-16 22:16:37.112364 - Quarantined: C:/Users/venka/OneDrive/Documents/AntivirusProject/quarantine\kumar.txt
+2026-04-16 22:16:37.112706 - Malware detected: rohini.txt
+2026-04-16 22:16:37.113089 - Quarantined: C:/Users/venka/OneDrive/Documents/AntivirusProject/quarantine\rohini.txt
+2026-04-16 22:16:37.113360 - Malware detected: sasi.txt
+2026-04-16 22:16:37.113694 - Quarantined: C:/Users/venka/OneDrive/Documents/AntivirusProject/quarantine\sasi.txt
+2026-04-16 22:16:37.113965 - Malware detected: suma.txt
+2026-04-16 22:16:37.114267 - Quarantined: C:/Users/venka/OneDrive/Documents/AntivirusProject/quarantine\suma.txt
+2026-04-16 22:17:07.926365 - Safe: main.py
+2026-04-16 22:17:39.876398 - Safe: main.py
+2026-04-16 22:18:04.731822 - Malware detected: kumar.txt
+2026-04-16 22:18:04.732276 - Quarantined: C:/Users/venka/OneDrive/Documents/AntivirusProject/quarantine\kumar.txt
+2026-04-16 22:18:04.733006 - Malware detected: rohini.txt
+2026-04-16 22:18:04.733419 - Quarantined: C:/Users/venka/OneDrive/Documents/AntivirusProject/quarantine\rohini.txt
+2026-04-16 22:18:04.733778 - Malware detected: sasi.txt
+2026-04-16 22:18:04.734116 - Quarantined: C:/Users/venka/OneDrive/Documents/AntivirusProject/quarantine\sasi.txt
+2026-04-16 22:18:04.734384 - Malware detected: suma.txt
+2026-04-16 22:18:04.734750 - Quarantined: C:/Users/venka/OneDrive/Documents/AntivirusProject/quarantine\suma.txt
